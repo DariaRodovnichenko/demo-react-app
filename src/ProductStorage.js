@@ -143,7 +143,7 @@ export const ProductStorage = () => {
 
   return (
     <div>
-      <h1>Firebase CDN Connected</h1>
+      <h1>Daria</h1>
       <label htmlFor="productSelect">Select Product:</label>
       <select
         id="productSelect"
